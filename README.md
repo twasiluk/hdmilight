@@ -9,7 +9,11 @@ How to use:
 
 1) Manufacture the HDMI receiver board that can be found in the 'board' directory (CADSoft Eagle format)
 
-2) Open the 'fpga/hdmilight.xise' project in Xilinx ISE and generate a bit file
+2) Open the 'fpga/hdmilight.xise' project in Xilinx ISE
+
+2a) Regenerate the IP cores: in the Hierarchy panel, expand the tree and select the conf, line_buffer and resultBuffer entries one by one and run the "Regenerate Core" process in the panel below
+
+2b) Generate the bit file
 
 3) Edit 'firmware/config_lights.h' to set light definitions
 
