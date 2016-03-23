@@ -1,6 +1,12 @@
 hdmilight
 =========
 
+[2016-03-23] This repo has been obsolete for a long time.
+
+Go to http://hacks.esar.org.uk/hdmi-light-v2/ and https://github.com/esar
+*************************
+
+
 Papilio FPGA HDMI Ambilight project forked from http://hacks.esar.org.uk/hg/hdmilight/file/tip/
 
 For latest version, go to http://hacks.esar.org.uk/hdmi-light/
